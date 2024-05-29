@@ -10,7 +10,7 @@ _description_
 
 ## License
 
-[MIT](./LICENSE) License © 2023-PRESENT [amatias](https://github.com/gui117)
+[MIT](./LICENSE) License © 2023-PRESENT [gui117](https://github.com/gui117)
 
 <!-- Badges -->
 
